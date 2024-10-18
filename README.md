@@ -1,5 +1,5 @@
 
-# **Creating Dynamic Table View in SwiftUI**
+# **How to Create Interactive Table View in SwiftUI**
 
 In this tutorial, we will create a simple and functional table to display student data using SwiftUI's `Table` view. This component is ideal for showing data in a structured, row-and-column format and offers features like sorting, filtering, multi-selection, and more. Our table will focus on a list of students and their grades across various subjects.
 
